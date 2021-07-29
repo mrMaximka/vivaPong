@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MB PLAY</string>
+    <string name="internet_connection_txt">No internet connection.\nSwipe to refresh the page</string>
+    <string name="result_exit">Вернуться в меню</string>
+    <string name="result_reload">Играть снова</string>
+    <string name="result_title">Игра окончена</string>
+    <string name="menu_start">Играть</string>
+    <string name="menu_result">Результаты</string>
+    <string name="menu_exit">Выход</string>
+    <string name="menu_sensor_title">Управление:</string>
+    <string name="menu_sensor_default">Кнопки</string>
+</resources>
